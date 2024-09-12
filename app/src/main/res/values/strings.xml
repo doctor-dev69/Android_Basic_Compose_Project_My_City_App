@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">My City</string>
+    <string name="app_top_bar">Attock Punjab </string>
+    <string name="default_title">Default Title</string>
+
+    <string name="cat_tea">Tea Shops</string>
+    <string name="cat_pizza">Pizza Shops</string>
+    <string name="cat_park">Parks</string>
+    <string name="cat_restaurant">Restaurant</string>
+
+    <string name="tea_shop_1">Hujra Cafe</string>
+    <string name="tea_shop_2">Tikka Khan</string>
+    <string name="tea_shop_3">Tariq Hotel</string>
+    <string name="tea_shop_4">Bismillah Hotel</string>
+    <string name="tea_shop_5">Rocki Cafe</string>
+
+    <string name="pizza_shop_1">Pizza Base</string>
+    <string name="pizza_shop_2">Rahat Pizza</string>
+    <string name="pizza_shop_3">Green Chili</string>
+    <string name="pizza_shop_4">Pizza Hut</string>
+    <string name="pizza_shop_5">Italian Pizza</string>
+
+    <string name="park_1">Jinnah Park</string>
+    <string name="park_2">Bacha Park</string>
+    <string name="park_3">Iqbal Park</string>
+    <string name="park_4">Mrf Park</string>
+    <string name="park_5">New City Park</string>
+
+    <string name="restaurant_1">Tariq Hotel</string>
+    <string name="restaurant_2">Tikka Khan</string>
+    <string name="restaurant_3">Lassani</string>
+    <string name="restaurant_4">Chen Zeb Katwa Hotel</string>
+    <string name="restaurant_5">Rocki Bhai Restaurant</string>
+
+
+
+
+</resources>

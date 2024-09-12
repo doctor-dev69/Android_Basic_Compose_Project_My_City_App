@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My City Ai</string>
+    <string name="items_screen">Items Screen</string>
+    <string name="detail_screen">Detail Screen</string>
+
+    <string name="cat_1">Tea Shops</string>
+    <string name="cat_2">Pizza Shops</string>
+    <string name="cat_3">Restaurant</string>
+    <string name="cat_4">Parks</string>
+</resources>
